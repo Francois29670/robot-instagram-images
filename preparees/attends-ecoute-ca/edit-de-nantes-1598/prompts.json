@@ -34,11 +34,13 @@
     },
     "6": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "7": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     }
   }
 }
