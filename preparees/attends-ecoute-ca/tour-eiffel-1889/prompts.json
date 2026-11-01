@@ -3,37 +3,44 @@
   "2": "Two 19th century engineers with mustaches, wearing frock coats and waistcoats, leaning over technical drawings of a tall iron tower on a desk, oil lamp, drafting tools, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "3": "Elegant crowd at the 1889 Paris World's Fair, pavilions, flags, top hats and long dresses, festive atmosphere, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "4": "Indignant 19th century Parisian artists and writers in a café reading a newspaper, top hats, cigar smoke, outraged expressions, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
-  "5": "Workers in 1888 wearing flat cloth caps, waistcoats and rolled-up shirt sleeves, hammering glowing hot rivets by hand into iron beams high on a lattice tower, small coal forge, small steam crane, vertiginous view over Paris, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
+  "5": "Workers in 1888 wearing flat cloth caps, waistcoats and rolled-up shirt sleeves, hammering glowing hot rivets by hand into iron beams high on a lattice tower, small coal forge, small steam crane, vertiginous view straight down onto old city rooftops far below, flat misty horizon, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "6": "A man in a top hat raising a large French tricolor flag at the top of a giant iron tower, panoramic view of Paris below, celebration, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "7": "Early 1900s scientists in dark suits and stiff white collars operating wireless telegraph equipment with brass instruments at the top of an iron tower, antenna wires, clouds, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "verif": {
     "1": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "2": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "3": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "4": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "5": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "6": {
-      "etat": "ok",
-      "probleme": ""
+      "etat": "refusee",
+      "probleme": "La tour Eiffel est visible en arrière-plan alors que la scène se déroule dessus.",
+      "v": 3
     },
     "7": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     }
   }
 }

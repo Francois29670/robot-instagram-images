@@ -9,31 +9,38 @@
   "verif": {
     "1": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "2": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "3": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "4": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "5": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "6": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "7": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     }
   }
 }

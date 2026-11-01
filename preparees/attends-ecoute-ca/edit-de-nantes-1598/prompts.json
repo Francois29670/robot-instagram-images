@@ -8,24 +8,29 @@
   "7": "Huguenot families in 17th century clothing leaving on a dirt country road with horse carts and bundles, open fields, grey sky, melancholic mood, year 1685, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
   "verif": {
     "1": {
-      "etat": "ok",
-      "probleme": ""
+      "etat": "corrigee",
+      "probleme": "",
+      "v": 3
     },
     "2": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "3": {
-      "etat": "ok",
-      "probleme": ""
+      "etat": "corrigee",
+      "probleme": "",
+      "v": 3
     },
     "4": {
       "etat": "ok",
-      "probleme": ""
+      "probleme": "",
+      "v": 3
     },
     "5": {
-      "etat": "ok",
-      "probleme": ""
+      "etat": "corrigee",
+      "probleme": "",
+      "v": 3
     },
     "6": {
       "etat": "ok",
