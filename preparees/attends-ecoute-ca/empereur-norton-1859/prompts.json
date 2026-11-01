@@ -5,5 +5,35 @@
   "4": "A bearded man in a gold-epauletted uniform inspecting a horse-drawn streetcar in 1870s San Francisco, amused passersby in top hats and long dresses, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "5": "A 19th century restaurant counter, a man in a gold-epauletted uniform paying with a decorated paper note, a smiling waiter in an apron, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "6": "A bearded man in uniform standing on a hill above San Francisco Bay at sunset, pointing across the water, sailing ships in the bay, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
-  "7": "A huge crowd in 19th century clothes filling a San Francisco street in quiet respect, horse-drawn carriages, gray sky, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format"
+  "7": "A huge crowd in 19th century clothes filling a San Francisco street in quiet respect, horse-drawn carriages, gray sky, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
+  "verif": {
+    "1": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "2": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "3": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "4": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "5": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "6": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "7": {
+      "etat": "ok",
+      "probleme": ""
+    }
+  }
 }

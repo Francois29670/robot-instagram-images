@@ -5,5 +5,35 @@
   "4": "Portrait of King Henri IV of France with grey beard and white ruff collar, a mischievous half smile, in a dark wood-paneled study with candles, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
   "5": "A French king signing a large parchment with a quill pen, red wax seal, candlelight, counselors in 16th century clothing watching, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
   "6": "Townspeople of 1598 in a sunny French market square, smiling and talking together, a church in the background, soft morning light, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
-  "7": "Huguenot families in 17th century clothing leaving on a dirt country road with horse carts and bundles, open fields, grey sky, melancholic mood, year 1685, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format"
+  "7": "Huguenot families in 17th century clothing leaving on a dirt country road with horse carts and bundles, open fields, grey sky, melancholic mood, year 1685, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
+  "verif": {
+    "1": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "2": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "3": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "4": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "5": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "6": {
+      "etat": "ok",
+      "probleme": ""
+    },
+    "7": {
+      "etat": "ok",
+      "probleme": ""
+    }
+  }
 }
