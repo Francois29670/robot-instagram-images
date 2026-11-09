@@ -1,0 +1,40 @@
+{
+  "verif": {
+    "1": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "2": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "3": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "4": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "5": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "6": {
+      "etat": "refusee",
+      "probleme": "Le paysage montre les Andes, mais la scène se passe au Vermont, États-Unis.",
+      "v": 3
+    }
+  },
+  "1": "A long smooth iron rod lying on rocky ground beside a railroad cutting in the Vermont countryside, workers in 1840s shirtsleeves, suspenders and wide-brimmed felt hats staring at it in shock, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
+  "2": "A young railroad foreman in an 1840s waistcoat, rolled shirtsleeves and felt hat kneeling by a hole drilled in a rock, holding a long iron tamping rod, a crew of laborers behind him, green hills, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
+  "3": "A puff of white smoke rising over a rocky railroad cutting in a rural 1848 landscape, laborers in waistcoats and felt hats running toward it, an iron rod lying far off in the grass, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
+  "4": "A wounded young man with a bandaged head sitting upright in a wooden ox cart, talking calmly to a country doctor in a frock coat holding a leather medical bag, porch of a small 1840s inn, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
+  "5": "A 19th century physician in a dark frock coat studying a human skull and handwritten notes by oil lamp in a wood-paneled study, anatomical books stacked on the desk, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
+  "6": "A stagecoach pulled by six horses on a dusty mountain road in 1850s Chile, the driver in a wide hat and poncho holding the reins, the Andes mountains behind, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format"
+}
