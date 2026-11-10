@@ -27,7 +27,7 @@
     },
     "6": {
       "etat": "refusee",
-      "probleme": "Le lieu est incorrect: il s'agit de Vermont, États-Unis, et non du Chili.",
+      "probleme": "Le lieu est incorrect (les Andes au lieu du Vermont) et il y a du texte lisible sur la diligence.",
       "v": 3
     }
   },
