@@ -26,8 +26,8 @@
       "v": 3
     },
     "6": {
-      "etat": "refusee",
-      "probleme": "Le lieu est incorrect (les Andes au lieu du Vermont) et il y a du texte lisible sur la diligence.",
+      "etat": "corrigee",
+      "probleme": "",
       "v": 3
     }
   },
@@ -36,5 +36,5 @@
   "3": "A puff of white smoke rising over a rocky railroad cutting in a rural 1848 landscape, laborers in waistcoats and felt hats running toward it, an iron rod lying far off in the grass, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "4": "A wounded young man with a bandaged head sitting upright in a wooden ox cart, talking calmly to a country doctor in a frock coat holding a leather medical bag, porch of a small 1840s inn, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
   "5": "A 19th century physician in a dark frock coat studying a human skull and handwritten notes by oil lamp in a wood-paneled study, anatomical books stacked on the desk, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",
-  "6": "A stagecoach pulled by six horses on a dusty mountain road in 1850s Chile, the driver in a wide hat and poncho holding the reins, the Andes mountains behind, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format"
+  "6": "A plain unmarked wooden stagecoach pulled by six horses on a dusty mountain road in 1850s Chile, the driver in a wide-brimmed hat and wool poncho holding the reins, the Andes mountains behind, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format"
 }
