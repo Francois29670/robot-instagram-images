@@ -1,0 +1,40 @@
+{
+  "verif": {
+    "1": {
+      "etat": "refusee",
+      "probleme": "Les combinaisons spatiales ne sont pas blanches et sans insignes comme demandé.",
+      "v": 3
+    },
+    "2": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "3": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "4": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "5": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "6": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    }
+  },
+  "1": "Three astronauts in plain white 1970 spacesuits without any insignia or lettering, floating inside a cramped dim spacecraft cabin, worried faces lit by small warning lights, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "2": "A damaged cylindrical spacecraft service module drifting in black space with a cloud of white gas venting from a torn open side panel, the Moon small in the distance, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "3": "Three tired astronauts in 1970 flight clothes squeezed together in a tiny cramped lunar lander cabin with angular windows, breath visible in the cold air, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "4": "Close-up of a square grey air filter canister held next to a round opening in a spacecraft wall, astronaut gloved hands, dim cabin light, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "5": "Astronaut hands assembling a makeshift contraption from grey duct tape, clear plastic bags and pieces of cardboard inside a cramped spacecraft cabin, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "6": "A cone-shaped space capsule hanging under three large orange and white striped parachutes descending over a calm blue Pacific ocean, navy ship in the distance, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format"
+}
