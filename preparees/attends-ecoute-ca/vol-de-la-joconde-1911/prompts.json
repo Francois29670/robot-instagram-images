@@ -1,0 +1,40 @@
+{
+  "verif": {
+    "1": {
+      "etat": "corrigee",
+      "probleme": "",
+      "v": 3
+    },
+    "2": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "3": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "4": {
+      "etat": "corrigee",
+      "probleme": "",
+      "v": 3
+    },
+    "5": {
+      "etat": "corrigee",
+      "probleme": "",
+      "v": 3
+    },
+    "6": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    }
+  },
+  "1": "An empty wall in a grand museum gallery with four small metal hooks where a painting used to hang, visitors in 1911 hats and long dresses staring at it, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "2": "A man in a long white 1911 workman's smock walking calmly out of a grand stone museum doorway at early morning, holding something flat under his smock, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "3": "A painter in a 1911 suit with his easel and palette standing puzzled in front of an empty spot on a museum wall, a uniformed guard with a kepi shrugging, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "4": "A long queue of Parisians in 1911 straw boaters, bowler hats and long skirts lining up outside a grand museum, policemen in capes keeping order, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "5": "A modest 1910s Paris attic bedroom with a wooden trunk opened to reveal a small framed portrait wrapped in cloth, a man in shirtsleeves looking at it by candlelight, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "6": "An art dealer in a 1913 suit and a museum director carefully examining a small Renaissance portrait on a table in a Florence hotel room, sunlight through shutters, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format"
+}
