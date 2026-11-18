@@ -28,7 +28,8 @@
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "93b84d36f0c1"
     },
     "6": {
       "etat": "ok",

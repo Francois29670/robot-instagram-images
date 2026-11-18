@@ -33,9 +33,10 @@
       "claude": "95615b9edd72"
     },
     "6": {
-      "etat": "ok",
-      "probleme": "",
-      "v": 3
+      "etat": "a_refaire",
+      "probleme": "Claude : chiffres et lettres d horloge moderne lisibles sur le cadran",
+      "v": 3,
+      "refus_claude": 1
     }
   },
   "1": "Greek sponge divers in early 1900s canvas diving suits and brass helmets on a wooden boat deck lifting a corroded green bronze lump from the sea, retro scientific illustration, warm vintage colors, detailed ancient bronze mechanisms and seafaring scenes, cinematic composition, vertical portrait format",

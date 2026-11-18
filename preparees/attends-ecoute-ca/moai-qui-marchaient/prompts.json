@@ -22,12 +22,14 @@
     "4": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "ccf77707c730"
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "9b7f5b120665"
     },
     "6": {
       "etat": "ok",
