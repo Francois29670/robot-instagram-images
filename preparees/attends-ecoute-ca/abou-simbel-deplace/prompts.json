@@ -22,7 +22,8 @@
       "etat": "ok",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "143c733155bd"
     },
     "5": {
       "etat": "ok",

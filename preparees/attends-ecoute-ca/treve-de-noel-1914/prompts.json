@@ -4,7 +4,7 @@
   "3": "Small Christmas trees with glowing candles placed along the top of a trench at night, soldiers singing softly, stars in the sky, black and white archival photograph from 1914, softly hand-colored, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
   "4": "A lone soldier in a 1914 wool greatcoat and soft peaked cap climbing out of a trench with empty raised hands, frosty field, faint morning light, black and white archival photograph from 1914, softly hand-colored, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
   "5": "Soldiers of both sides in 1914 wool uniforms with soft caps smiling and exchanging chocolate bars, tobacco tins and family photographs in a frosty field, black and white archival photograph from 1914, softly hand-colored, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
-  "6": "A leather football bouncing on a frosty field, a few soldiers in 1914 wool greatcoats and soft caps kicking it, smoke from distant chimneys, soft winter light, black and white archival photograph from 1914, softly hand-colored, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "6": "A few soldiers in 1914 wool greatcoats and soft caps kicking a small round leather soccer ball across a frosty field, the ball small at their feet, smoke from distant chimneys, soft winter light, black and white archival photograph from 1914, softly hand-colored, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
   "7": "A single candle burning on a wooden post in a quiet snowy field at night, silhouettes of soldiers in the distance, peaceful mood, black and white archival photograph from 1914, softly hand-colored, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
   "verif": {
     "1": {
@@ -40,8 +40,7 @@
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3,
-      "refus_claude": 1
+      "v": 3
     },
     "7": {
       "etat": "ok",

@@ -16,7 +16,8 @@
       "etat": "ok",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "01d5050eb255"
     },
     "4": {
       "etat": "ok",
@@ -28,13 +29,13 @@
       "etat": "ok",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "95615b9edd72"
     },
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3,
-      "refus_claude": 1
+      "v": 3
     }
   },
   "1": "Greek sponge divers in early 1900s canvas diving suits and brass helmets on a wooden boat deck lifting a corroded green bronze lump from the sea, retro scientific illustration, warm vintage colors, detailed ancient bronze mechanisms and seafaring scenes, cinematic composition, vertical portrait format",
@@ -42,5 +43,5 @@
   "3": "An archaeologist in a 1900s suit and moustache examining corroded bronze fragments with tiny gear teeth under a lamp in an old museum workroom, retro scientific illustration, warm vintage colors, detailed ancient bronze mechanisms and seafaring scenes, cinematic composition, vertical portrait format",
   "4": "A detailed cutaway view of an ancient bronze mechanism with dozens of interlocking gears of different sizes inside a wooden box with a side crank, retro scientific illustration, warm vintage colors, detailed ancient bronze mechanisms and seafaring scenes, cinematic composition, vertical portrait format",
   "5": "An ancient Greek scholar in a draped tunic turning the crank of a wooden box with bronze dials showing the sun, the moon and zodiac signs, oil lamp light, retro scientific illustration, warm vintage colors, detailed ancient bronze mechanisms and seafaring scenes, cinematic composition, vertical portrait format",
-  "6": "The front bronze dial of an ancient astronomical device with zodiac rings and pointers, glowing warm light, stars painted in the background, retro scientific illustration, warm vintage colors, detailed ancient bronze mechanisms and seafaring scenes, cinematic composition, vertical portrait format"
+  "6": "Close-up of an ancient corroded bronze gear mechanism with interlocking hand-cut triangular teeth and a plain round bronze dial with simple pointers and blank rings, glowing warm light, stars painted in the background, retro scientific illustration, warm vintage colors, detailed ancient bronze mechanisms and seafaring scenes, cinematic composition, vertical portrait format"
 }

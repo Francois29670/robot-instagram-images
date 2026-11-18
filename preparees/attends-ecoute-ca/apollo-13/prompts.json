@@ -4,7 +4,8 @@
       "etat": "corrigee",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "2027a1ca085a"
     },
     "2": {
       "etat": "ok",
@@ -16,7 +17,8 @@
       "etat": "corrigee",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "3d2ae081d139"
     },
     "4": {
       "etat": "ok",
@@ -34,7 +36,8 @@
       "etat": "ok",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "63d994d89f8a"
     }
   },
   "1": "A tall white rocket lifting off from a launch pad in a huge cloud of fire and smoke, seen from far away under a blue sky, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",

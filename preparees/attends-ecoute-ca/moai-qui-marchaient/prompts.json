@@ -10,7 +10,8 @@
       "etat": "ok",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "3ae633055e75"
     },
     "3": {
       "etat": "corrigee",
@@ -19,16 +20,14 @@
       "claude": "141311a5193a"
     },
     "4": {
-      "etat": "corrigee",
+      "etat": "ok",
       "probleme": "",
-      "v": 3,
-      "refus_claude": 1
+      "v": 3
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3,
-      "refus_claude": 1
+      "v": 3
     },
     "6": {
       "etat": "ok",
@@ -40,7 +39,7 @@
   "1": "Giant stone moai statues with long faces standing on a grassy hillside of a remote Pacific island at sunset, glowing golden sky, ocean behind, epic painting with a mythological atmosphere, glowing golden light, rich colors, highly detailed, cinematic composition, vertical portrait format",
   "2": "A volcanic quarry slope with many half-carved giant stone heads emerging from the rock, Polynesian carvers in bark cloth wraps working with stone tools, epic painting with a mythological atmosphere, glowing golden light, rich colors, highly detailed, cinematic composition, vertical portrait format",
   "3": "A moai statue appearing to glide across a grassy plain under a starry night sky, surrounded by a faint magical glow, Polynesian people watching in awe, epic painting with a mythological atmosphere, glowing golden light, rich colors, highly detailed, cinematic composition, vertical portrait format",
-  "4": "A group of people pulling on long ropes tied to the head of a tall stone statue standing upright on a dirt road, green island hills, bright daylight, epic painting with a mythological atmosphere, glowing golden light, rich colors, highly detailed, cinematic composition, vertical portrait format",
-  "5": "A tall stone statue tilting to one side as teams on both sides pull ropes, appearing to take a step forward on a dirt path, dust rising, ocean in the distance, epic painting with a mythological atmosphere, glowing golden light, rich colors, highly detailed, cinematic composition, vertical portrait format",
+  "4": "Rapa Nui islanders in bark-cloth loincloths pulling long ropes tied to the head of an Easter Island moai, a stone statue with a huge head, long ears, heavy brow and no legs, standing upright on a dirt road, green island hills, bright daylight, epic painting with a mythological atmosphere, glowing golden light, rich colors, highly detailed, cinematic composition, vertical portrait format",
+  "5": "An Easter Island moai, a stone statue with a huge head, long ears, heavy brow and no legs, rocking to one side as Rapa Nui islanders in bark-cloth loincloths pull ropes on both sides, dust rising, ocean in the distance, epic painting with a mythological atmosphere, glowing golden light, rich colors, highly detailed, cinematic composition, vertical portrait format",
   "6": "A row of giant moai statues standing on a stone platform facing inland at dawn, soft mist, a narrow ancient road leading to them across the grass, epic painting with a mythological atmosphere, glowing golden light, rich colors, highly detailed, cinematic composition, vertical portrait format"
 }

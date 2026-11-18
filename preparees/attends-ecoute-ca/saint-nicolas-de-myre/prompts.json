@@ -10,7 +10,8 @@
       "etat": "corrigee",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "f0e9f6c3d55a"
     },
     "3": {
       "etat": "ok",

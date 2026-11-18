@@ -28,7 +28,8 @@
       "etat": "ok",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "8c155ca60c51"
     },
     "6": {
       "etat": "ok",

@@ -4,13 +4,15 @@
       "etat": "ok",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "2ea2a5e8e4c3"
     },
     "2": {
       "etat": "ok",
       "probleme": "",
       "v": 3,
-      "refus_claude": 1
+      "refus_claude": 1,
+      "claude": "120986e6df57"
     },
     "3": {
       "etat": "ok",
@@ -33,8 +35,7 @@
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3,
-      "refus_claude": 1
+      "v": 3
     }
   },
   "1": "A dapper man in a 1920 straw boater hat, three-piece suit and cane smiling in front of a crowded office doorway in Boston, people in 1920s coats and hats pushing forward, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
@@ -42,5 +43,5 @@
   "3": "A man in a 1920 suit sitting alone at a cluttered office desk late at night under a green lamp, piles of letters and banknotes, thoughtful expression, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
   "4": "Clerks in 1920s shirts with sleeve garters handing banknotes through a window to a long queue of men and women in cloche hats and flat caps on a Boston street, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
   "5": "A serious journalist in a 1920 waistcoat and round glasses writing figures on paper at a newsroom desk with typewriters, cigarette smoke, newspapers piled up, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",
-  "6": "A 1920 newspaper boy in a flat cap shouting on a Boston street corner holding up a newspaper, worried passers-by in hats and coats gathering around, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format"
+  "6": "A 1920 newspaper boy in a flat cap shouting on a Boston street corner, a folded stack of newspapers under his arm, worried passers-by in hats and coats gathering around, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format"
 }
