@@ -3,32 +3,38 @@
     "1": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "ed9a7f9e1c77"
     },
     "2": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "99adad38c37c"
     },
     "3": {
       "etat": "corrigee",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "1a2b9b2496c1"
     },
     "4": {
-      "etat": "corrigee",
+      "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "c1c99ea29d74"
     },
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "9b7ac5b43e03"
     }
   },
   "1": "Four colossal seated stone statues of a pharaoh carved into a sandstone cliff, scaffolding and workers in 1960s cotton shirts and caps on the facade, bright desert sun, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",

@@ -10,37 +10,44 @@
     "1": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "62a924bf94d0"
     },
     "2": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "ca95559d28e6"
     },
     "3": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "61eb98c3f92a"
     },
     "4": {
       "etat": "corrigee",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "44ef33d54afd"
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "570573561d3e"
     },
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "71330228d5e6"
     },
     "7": {
       "etat": "corrigee",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "e326577ab1f5"
     }
   }
 }

@@ -3,32 +3,38 @@
     "1": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "2": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "d66c088d1116"
     },
     "3": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "babe18e38d25"
     },
     "4": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "6a37567a7530"
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "3c0e26ce4e5a"
     },
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "3d32cebd25cd"
     }
   },
   "1": "A commanding Chinese woman in a dark silk robe with embroidered sleeves standing at the bow of a large wooden junk with red sails, a fleet of junks behind her on a misty sea, vivid illustration inspired by Qing dynasty Chinese paintings, bold outlines, rich colors, cinematic composition, vertical portrait format",

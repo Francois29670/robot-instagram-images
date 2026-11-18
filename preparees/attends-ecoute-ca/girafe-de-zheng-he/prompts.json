@@ -3,32 +3,38 @@
     "1": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "a35da871d5fe"
     },
     "2": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "5066ea37e996"
     },
     "3": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "895b75f94adf"
     },
     "4": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "67d9580ff158"
     },
     "5": {
       "etat": "corrigee",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "dfa890475964"
     },
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "6520e0eea12c"
     }
   },
   "1": "A tall giraffe led by attendants in Ming dynasty robes through a palace courtyard with red columns and golden roofs, astonished courtiers in silk robes and black hats, vivid illustration inspired by Ming dynasty Chinese court paintings, fine brushwork, rich mineral colors, cinematic composition, vertical portrait format",

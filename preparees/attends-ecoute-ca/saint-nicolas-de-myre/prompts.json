@@ -3,32 +3,38 @@
     "1": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "416a779b8c75"
     },
     "2": {
-      "etat": "ok",
+      "etat": "corrigee",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "3": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "b8afd19aeb0e"
     },
     "4": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "bf8d07216716"
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "030a603ebd46"
     },
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "9264c3b82425"
     }
   },
   "1": "A candlelit crypt of a Romanesque basilica with stone columns and an ornate tomb behind a silver grille, pilgrims in medieval cloaks kneeling, richly colored illustration inspired by medieval illuminated manuscripts, gold accents, vivid blues and reds, detailed, cinematic composition, vertical portrait format",

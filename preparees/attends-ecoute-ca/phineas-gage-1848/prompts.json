@@ -3,32 +3,38 @@
     "1": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "2": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "f86f7e51a554"
     },
     "3": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "572c82f42a34"
     },
     "4": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "ab05aeb231c3"
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "5139a45aa0c4"
     },
     "6": {
       "etat": "corrigee",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "b5acba88c8cc"
     }
   },
   "1": "A long smooth iron rod lying on rocky ground beside a railroad cutting in the Vermont countryside, workers in 1840s shirtsleeves, suspenders and wide-brimmed felt hats staring at it in shock, vintage 19th century photograph, sepia tones, film grain, realistic, highly detailed, cinematic composition, vertical portrait format",

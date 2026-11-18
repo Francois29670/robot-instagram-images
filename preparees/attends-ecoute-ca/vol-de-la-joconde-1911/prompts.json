@@ -3,32 +3,38 @@
     "1": {
       "etat": "corrigee",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "8ceb5772b86b"
     },
     "2": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "86d0acf7d8e6"
     },
     "3": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "57ce6545b242"
     },
     "4": {
-      "etat": "corrigee",
+      "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "5": {
-      "etat": "corrigee",
+      "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "30b580866f7d"
     }
   },
   "1": "An empty wall in a grand museum gallery with four small metal hooks where a painting used to hang, visitors in 1911 hats and long dresses staring at it, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",

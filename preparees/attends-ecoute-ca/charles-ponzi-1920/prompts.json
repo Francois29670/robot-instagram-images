@@ -3,32 +3,38 @@
     "1": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "2": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "3": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "633c77d66c48"
     },
     "4": {
       "etat": "corrigee",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "fe3306b7340a"
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "78070cf2ef0e"
     },
     "6": {
-      "etat": "corrigee",
+      "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     }
   },
   "1": "A dapper man in a 1920 straw boater hat, three-piece suit and cane smiling in front of a crowded office doorway in Boston, people in 1920s coats and hats pushing forward, black and white archival photograph from the early 20th century, film grain, realistic, documentary style, cinematic composition, vertical portrait format",

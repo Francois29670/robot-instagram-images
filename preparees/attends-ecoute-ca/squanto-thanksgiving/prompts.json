@@ -3,32 +3,38 @@
     "1": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "393b49ce6e00"
     },
     "2": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "95ae3a0da26a"
     },
     "3": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "a42d94c13cd9"
     },
     "4": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "28f6e704d63e"
     },
     "5": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "refus_claude": 1
     },
     "6": {
       "etat": "ok",
       "probleme": "",
-      "v": 3
+      "v": 3,
+      "claude": "073c890f6006"
     }
   },
   "1": "A Native American man in deerskin leggings and a fur mantle walking out of a snowy forest toward a few English settlers in 1620s woolen doublets, capes and tall hats, small timber houses behind, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
