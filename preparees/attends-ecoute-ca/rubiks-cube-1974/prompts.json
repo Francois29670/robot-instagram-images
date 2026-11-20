@@ -21,13 +21,13 @@
       "v": 3
     },
     "5": {
-      "etat": "refusee",
-      "probleme": "Les vêtements des enfants sont typiques des années 1980 et non de 1974.",
+      "etat": "ok",
+      "probleme": "",
       "v": 3
     },
     "6": {
-      "etat": "refusee",
-      "probleme": "Les vêtements et les accessoires ne correspondent pas à la période de 1974 en Hongrie. La salle de classe semble trop moderne.",
+      "etat": "ok",
+      "probleme": "",
       "v": 3
     }
   },
@@ -35,6 +35,6 @@
   "2": "Hands of a man in a 1970s knitted sweater cutting small wooden cubes on a cluttered workbench, a pile of 27 small plain wooden blocks and a few rubber bands, wood shavings, desk lamp, Budapest flat, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
   "3": "A 1970s university design classroom in Budapest, students with long hair and flared trousers gathered around a wooden table looking at a small wooden cube made of blocks, chalkboard covered with simple geometric drawings, seen from behind the students, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
   "4": "Seen from behind, a man with dark wavy hair in a 1970s shirt sitting alone at a kitchen table at night, holding a single scrambled colorful puzzle cube in both hands, a cup of coffee and an ashtray, lamp light, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
-  "5": "Children in early 1980s clothes crowded around a wooden table in a toy shop, each twisting a small colorful puzzle cube, shelves of plain wooden toys and colored balls in the background, cheerful warm light, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
-  "6": "A teenage boy in a 1980s striped T-shirt at a school desk twisting a small colorful puzzle cube very fast, his hands blurred with motion, amazed classmates watching around him, bright classroom, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format"
+  "5": "Children in late 1970s clothes, knitted jumpers and corduroy trousers, crowded around a wooden table in an old-fashioned toy shop, each twisting a small colorful puzzle cube, wooden shelves of plain wooden toys and colored balls behind them, warm light, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format",
+  "6": "A teenage boy in a late 1970s knitted vest and collared shirt at an old wooden school desk twisting a small colorful puzzle cube very fast, his hands blurred with motion, amazed classmates in 1970s clothes watching around him, old classroom with a green chalkboard, vintage color film photograph, Kodachrome colors, soft grain, realistic, documentary style, cinematic composition, vertical portrait format"
 }
