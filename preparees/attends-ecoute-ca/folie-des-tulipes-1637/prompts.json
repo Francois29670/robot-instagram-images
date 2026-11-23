@@ -1,0 +1,40 @@
+{
+  "verif": {
+    "1": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "2": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "3": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "4": {
+      "etat": "corrigee",
+      "probleme": "",
+      "v": 3
+    },
+    "5": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    },
+    "6": {
+      "etat": "ok",
+      "probleme": "",
+      "v": 3
+    }
+  },
+  "1": "A single striped red and white tulip in a small blue and white Delft vase on a dark wooden table, a stack of gold coins beside it, candlelit 17th century Dutch interior, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
+  "2": "A crowded 17th century Dutch tavern, men in black doublets, white collars and wide-brimmed hats shaking hands over a wooden table, clay pipes and pewter mugs, a single tulip bulb on the table, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
+  "3": "Close-up of several tulips with flamed red and white striped petals growing in a neat Dutch garden bed, soft morning light, a brick wall behind, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
+  "4": "A quiet 17th century Dutch market square at dusk, an auctioneer in a black cloak standing alone behind a table with tulip bulbs, a few merchants in wide-brimmed hats walking away, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
+  "5": "Two Dutch burghers in black doublets and white ruffled collars sitting at a desk in a wood-paneled room, one handing back a folded sealed paper to the other, quill and inkwell, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format",
+  "6": "Extreme close-up of a flamed red and white tulip petal with tiny green aphids on the stem, soft dramatic light on a dark background, old master painting, dramatic chiaroscuro lighting, rich colors, highly detailed, cinematic composition, vertical portrait format"
+}
